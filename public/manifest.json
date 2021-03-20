@@ -49,12 +49,12 @@
       "purpose": "any"
     }
   ],
-  "name": "Budgeter: offline",
-  "short_name": "Budgeter",
+  "name": "Budget Buddy: offline",
+  "short_name": "Budge-Buddy",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "index.html",
-  "description": "An app that allows you to track your budget and see a timeline graph of your transactions.",
+  "description": "this progressive web app keeps track of your balance and shows its progress over time.",
   "background_color": "#B5DDA4",
   "theme_color": "#F9ECCC"
 }
