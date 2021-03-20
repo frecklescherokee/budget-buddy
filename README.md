@@ -1,1 +1,3 @@
 # budget-buddy
+
+## Description
